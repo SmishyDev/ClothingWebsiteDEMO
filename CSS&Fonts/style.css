@@ -195,7 +195,8 @@ body {
     transition: 0.2s;
   }
   .user-interactbtns {
-    margin-right: -105px;
+    right: 0.00000000000000000000000000000000000000000000000000000000000000000000000000000001%;
+    margin-right: -103px;
     margin-top: 260px;
     transform: translateX(-50vw);
     transition: 0.2s;
