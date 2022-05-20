@@ -195,10 +195,9 @@ body {
     transition: 0.2s;
   }
   .user-interactbtns {
-    right: 0.00000000000000000000000000000000000000000000000000000000000000000000000000000001%;
+    transform: translateX(-50vw);
     margin-right: -103px;
     margin-top: 260px;
-    transform: translateX(-50vw);
     transition: 0.2s;
     text-align: center;
   }
