@@ -176,7 +176,7 @@ body {
 .space-intr {
   visibility: hidden;
 }
-@media (max-width: 58em) {
+@media (max-width: 950px) {
   .menu-nav {
     margin-left: -80px;
     margin-top: 120px;
